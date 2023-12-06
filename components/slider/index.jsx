@@ -1,11 +1,12 @@
 "use client";
-import SwiperCore, { Autoplay } from 'swiper';
+import SwiperCore from 'swiper';
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import  {
   Navigation,
   Pagination,
   Scrollbar,
+  Autoplay
   
 } from "swiper/modules";
 
